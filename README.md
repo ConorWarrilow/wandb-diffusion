@@ -1,1 +1,5 @@
-# wandb-diffusion
+# Conditional and Unconditional Diffusion Model Tracking
+
+Tracking the training process is an important aspect of machine learning workflows. Effective tracking allows us to monitor the effects of changes made, diagnose issues, and understand what improvements may be beneficial. This is particularly important for complex models such as diffusion neural networks, where the training process involves generating and refining images through multiple steps. One of the most powerful tools available for tracking and visualizing the training of neural networks is Weights and Biases (W&B).
+
+Weights and Biases is a comprehensive platform designed to facilitate the tracking, logging, and visualization of machine learning experiments. It integrates seamlessly with popular deep learning frameworks such as PyTorch and TensorFlow, providing an intuitive and user-friendly interface to monitor various aspects of the training process. W&B offers several advantages that make it an excellent choice for tracking neural network training, particularly for diffusion neural networks.
